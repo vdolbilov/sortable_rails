@@ -7,7 +7,7 @@ require "sortable_rails/version"
 Gem::Specification.new do |s|
   s.name        = "sortable_rails"
   s.version     = SortableRails::VERSION
-  s.authors     = ["Vitaliy"]
+  s.authors     = ["Vitaliy Dolbilov"]
   s.email       = ["vitdolb@gmail.com"]
   s.homepage    = "TODO"
   s.summary     = "TODO: Summary of SortableRails."
