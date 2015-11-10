@@ -11,6 +11,7 @@ Gem::Specification.new do |s|
   s.email       = ["vitdolb@gmail.com"]
   s.homepage    = "https://github.com/vdolbilov/sortable_rails"
   s.description = "Rails assets plugin for the Sortable drag and drop library. No JQuery requirements and works on mobile."
+  s.summary     = "Rails assets plugin for the Sortable library."
   s.license     = "MIT"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.rdoc"]
