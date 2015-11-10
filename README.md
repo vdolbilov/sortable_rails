@@ -10,7 +10,7 @@ The `sortable_rails` gem integrates `Sortable` into the Rails asset pipeline.
 
 Include `sortable_rails` in Gemfile
 
-     gem 'sortable_rails'
+     gem 'sortable_rails', '~> 1.0.0'
 
 Then run `bundle install`
 
