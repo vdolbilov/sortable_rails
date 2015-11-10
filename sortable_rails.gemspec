@@ -14,7 +14,7 @@ Gem::Specification.new do |s|
   s.summary     = "Rails assets plugin for the Sortable library."
   s.license     = "MIT"
 
-  s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.rdoc"]
+  s.files = Dir["{lib,vendor}/**/*", "MIT-LICENSE", "Rakefile", "README.rdoc"]
 
   s.add_dependency "rails", "~> 4.2.4"
 end
