@@ -1,0 +1,2 @@
+module SortableRails
+end
